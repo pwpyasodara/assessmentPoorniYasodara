@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="21.6650" tests="1" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-07-03T18:54:46" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="myPlanFunctions" timestamp="2022-07-03T18:54:46" tests="1" file="/Users/poorniyasodara/Gymondo/taeAssessmentPoorniYasodara/test/myPlanFunctions_test.js" time="21.6630" failures="0">
+    <testcase name="myPlanFunctions: Verify" time="14.0230" classname="Verify">
+    </testcase>
+  </testsuite>
+</testsuites>
